@@ -149,7 +149,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Professional data and tool access for AI: help the AI you already use find services, review supported scope, call them, and audit usage.
 - [Store API](https://store-api.com/mcp-guide) `https://store-api.com/mcp`
   [![Store API MCP connector](https://glama.ai/mcp/connectors/com.store-api/store-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.store-api/store-api)
-  🔑 - Ask any of 58 models — GPT, Claude, Gemini, DeepSeek, Grok, Qwen, GLM — and generate images from one prepaid balance.
+  🔓 - Ask 58 models — GPT, Claude, Gemini, DeepSeek, Grok, Qwen — and generate images; calls need a key and prepaid funds.
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Discover and call paid per-request APIs for web search, market data, and enrichment, billed to a prepaid balance.
